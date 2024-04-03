@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Exequiel Muñoz</h1>
 <h3 align="center">I like programing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exequie-l44" alt="exequie-l44" /></a> </p>
+
 
 - 🔭 I’m currently working on **Grido**
 
