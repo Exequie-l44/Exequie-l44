@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Exequiel Muñoz</h1>
-<h3 align="center">I like programing</h3>
+
 
 
 
