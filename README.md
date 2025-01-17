@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScipt**
+- 🌱 I’m currently learning **JavaScipt** and **C#**
 
 - 📫 How to reach me **jose.exe.munoz@gmail.com**
 
