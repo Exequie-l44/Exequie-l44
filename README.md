@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning ...
   - C#
+  - .NET
   - JavaScript
+  - Node
+  - Express
+    
 
 - 📫 Reach out to me at: <a href="jose.exe.munoz@gmail.com">jose.exe.munoz@gmail.com</a>
 
