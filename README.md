@@ -11,6 +11,8 @@
 
 - 📫 Reach out to me at: <a href="jose.exe.munoz@gmail.com">jose.exe.munoz@gmail.com</a>
 
+<br>
+
 ## My Skills Include
 
 <h4> Languages </h4>
