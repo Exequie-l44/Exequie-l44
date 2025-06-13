@@ -10,7 +10,7 @@
   - .NET
   - JavaScript
   - Node
-  - Express
+  - React
     
 
 - 📫 Reach out to me at: <a href="jose.exe.munoz@gmail.com">jose.exe.munoz@gmail.com</a>
